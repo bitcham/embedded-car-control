@@ -1,5 +1,7 @@
 # Integrated Car Control System
 
+![Image](https://github.com/user-attachments/assets/c3f3bd27-3709-4930-a2d3-ac1d8a11b5cf)
+
 ## Overview
 
 This project implements an Arduino-based RC car control system that can be operated via a web interface or joystick. The car features motor control with encoder feedback, compass-based navigation using CMPS14 sensor, and real-time status display on an LCD. An ESP8266 module provides Wi-Fi connectivity and hosts a web server for remote control.
