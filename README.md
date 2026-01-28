@@ -1,6 +1,6 @@
 # Integrated Car Control System
 
-![Image](https://github.com/user-attachments/assets/c3f3bd27-3709-4930-a2d3-ac1d8a11b5cf)
+<img src="https://github.com/user-attachments/assets/c3f3bd27-3709-4930-a2d3-ac1d8a11b5cf" width="60%">
 
 ## Overview
 
